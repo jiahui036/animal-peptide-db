@@ -1,0 +1,33 @@
+[
+  {
+    "id": 1,
+    "name": "羚羊角",
+    "latin": "Saiga tatarica",
+    "part": "角",
+    "peptides": [
+      {
+        "sequence": "GLPFGRKTG",
+        "length": 9,
+        "structure": "images/glpfgrktg.png",
+        "reference": "doi:10.xxxx"
+      },
+      {
+        "sequence": "KLPAGTLP",
+        "length": 8,
+        "reference": "PMID:123456"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "蟾酥",
+    "latin": "Bufo gargarizans",
+    "part": "分泌物",
+    "peptides": [
+      {
+        "sequence": "VVPGAVAG",
+        "length": 8
+      }
+    ]
+  }
+]
